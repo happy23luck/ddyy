@@ -1,1 +1,1 @@
-vless://345e6e7c-4931-11ed-b878-0242ac120002@vlo1-prod-didilala-f5pywr.mo1.mogenius.io:443?type=ws&security=tls&path=%2F345e6e7c-4931-11ed-b878-0242ac120002-vless&host=vlo1-prod-didilala-f5pywr.mo1.mogenius.io&sni=vlo1-prod-didilala-f5pywr.mo1.mogenius.io&alpn=#vless%40vlo1-prod-didilala-f5pywr.mo1.mogenius.io%3A443
+dm1lc3M6Ly93cyt0bHM6MDI3OGEzNTQtMzZhZC04ZGVhLTI4ZDMtZWRjODdjMjE4OWMzLTBAZHJrYjA3LnIxbmhhdHpoM2YuZ2E6NDQzLz9ob3N0PWRya2IwNy5yMW5oYXR6aDNmLmdhJnBhdGg9L2Fsb25ldndzJmFsbG93SW5zZWN1cmU9dHJ1ZSZ0bHNTZXJ2ZXJOYW1lPWRya2IwNy5yMW5oYXR6aDNmLmdhI1ZNRVNTNC0ySVA=
