@@ -1,1 +1,1 @@
-dm1lc3M6Ly93cyt0bHM6ZGFkM2Y5OTMtOGMyMS03MTY3LTUyMDAtMzRlNzM1ODgwMTg0LTBAbnd5eWQucjFuaGF0emgzZi5nYTo0NDMvP2hvc3Q9bnd5eWQucjFuaGF0emgzZi5nYSZwYXRoPS9hbG9uZXZ3cyZhbGxvd0luc2VjdXJlPXRydWUmdGxzU2VydmVyTmFtZT1ud3l5ZC5yMW5oYXR6aDNmLmdhI1ZNRVNTMzItMg==
+vmess://ws+tls:dad3f993-8c21-7167-5200-34e735880184-0@nwyyd.r1nhatzh3f.ga:443/?host=nwyyd.r1nhatzh3f.ga&path=/alonevws&allowInsecure=true&tlsServerName=nwyyd.r1nhatzh3f.ga#VMESS32-2IP
