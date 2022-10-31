@@ -1,1 +1,1 @@
-dm1lc3M6Ly93cyt0bHM6YWM5NGM0NzAtYzM3OS0xM2MyLWY1NzYtYmY3MzNkZDJjODBhLTBAcW80MnMucjFuaGF0emgzZi5nYTo0NDMvP2hvc3Q9cW80MnMucjFuaGF0emgzZi5nYSZwYXRoPS9hbG9uZXZ3cyZhbGxvd0luc2VjdXJlPXRydWUmdGxzU2VydmVyTmFtZT1xbzQycy5yMW5oYXR6aDNmLmdhI1ZNRVNTMzUtMg==
+vmess://ws+tls:ac94c470-c379-13c2-f576-bf733dd2c80a-0@qo42s.r1nhatzh3f.ga:443/?host=qo42s.r1nhatzh3f.ga&path=/alonevws&allowInsecure=true&tlsServerName=qo42s.r1nhatzh3f.ga#VMESS35-2IP
