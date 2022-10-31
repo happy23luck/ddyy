@@ -1,1 +1,1 @@
-dm1lc3M6Ly93cyt0bHM6N2UyMTU1ZGUtNzk2Ni0xZWJjLTlhZGQtZTIyODEyZDFmMWQ4LTBAcGY2N2Y1LnIxbmhhdHpoM2YuZ2E6NDQzLz9ob3N0PXBmNjdmNS5yMW5oYXR6aDNmLmdhJnBhdGg9L2Fsb25ldndzJmFsbG93SW5zZWN1cmU9dHJ1ZSZ0bHNTZXJ2ZXJOYW1lPXBmNjdmNS5yMW5oYXR6aDNmLmdhI1ZNRVNTMzQtMg==
+vmess://ws+tls:7e2155de-7966-1ebc-9add-e22812d1f1d8-0@pf67f5.r1nhatzh3f.ga:443/?host=pf67f5.r1nhatzh3f.ga&path=/alonevws&allowInsecure=true&tlsServerName=pf67f5.r1nhatzh3f.ga#VMESS34-2IP
