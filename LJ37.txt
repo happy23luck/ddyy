@@ -1,1 +1,1 @@
-dm1lc3M6Ly93cyt0bHM6MzRmM2RlMjItOGI0NC0yYWQ1LTYxYmMtZTZkYjBiZTEzYjE0LTBAdWJpdGg1LnIxbmhhdHpoM2YuZ2E6NDQzLz9ob3N0PXViaXRoNS5yMW5oYXR6aDNmLmdhJnBhdGg9L2Fsb25ldndzJmFsbG93SW5zZWN1cmU9dHJ1ZSZ0bHNTZXJ2ZXJOYW1lPXViaXRoNS5yMW5oYXR6aDNmLmdhI1ZNRVNTMzctMg==
+vmess://ws+tls:34f3de22-8b44-2ad5-61bc-e6db0be13b14-0@ubith5.r1nhatzh3f.ga:443/?host=ubith5.r1nhatzh3f.ga&path=/alonevws&allowInsecure=true&tlsServerName=ubith5.r1nhatzh3f.ga#VMESS37-2IP
