@@ -1,2 +1,2 @@
-vmess://ws+tls:fab011ea-f149-d3d9-90ab-a190be560d57-0@lwfooa.r1nhatzh3f.ga:443/?host=lwfooa.r1nhatzh3f.ga&path=/alonevws&allowInsecure=true&tlsServerName=lwfooa.r1nhatzh3f.ga#VMESS12-2
+vmess://ws+tls:fab011ea-f149-d3d9-90ab-a190be560d57-0@lwfooa.r1nhatzh3f.ga:443/?host=lwfooa.r1nhatzh3f.ga&path=/alonevws&allowInsecure=true&tlsServerName=lwfooa.r1nhatzh3f.ga#VMESS12-2IP
 vmess://ws+tls:2575da45-ff45-4816-b218-5a3111038f71-0@test12.lengbing.repl.co:443/?host=test12.lengbing.repl.co&path=/2575da45-ff45-4816-b218-5a3111038f71-vmess&allowInsecure=true&tlsServerName=test12.lengbing.repl.co#vmess12
