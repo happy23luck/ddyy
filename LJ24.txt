@@ -1,0 +1,2 @@
+vmess://ws+tls:007c1a59-ec3b-7ebd-2e8b-1b1e1677b539-0@fogvxo.r1nhatzh3f.ga:443/?host=fogvxo.r1nhatzh3f.ga&path=/alonevws&allowInsecure=true&tlsServerName=fogvxo.r1nhatzh3f.ga#VMESS24-2IP
+vmess://ws+tls:e9c23f9c-0c3b-4cc2-944f-151e4b201ed7-0@test24.lengbing.repl.co:443/?host=test24.lengbing.repl.co&path=/e9c23f9c-0c3b-4cc2-944f-151e4b201ed7-vmess&allowInsecure=true&tlsServerName=test24.lengbing.repl.co#vmess24

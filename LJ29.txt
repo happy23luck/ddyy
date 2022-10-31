@@ -1,0 +1,1 @@
+vmess://ws+tls:1869f6b6-3833-f5d2-10e4-c53ccdbc8dc2-0@kl7a8.r1nhatzh3f.ga:443/?host=kl7a8.r1nhatzh3f.ga&path=/alonevws&allowInsecure=true&tlsServerName=kl7a8.r1nhatzh3f.ga#VMESS29-2IP

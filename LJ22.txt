@@ -1,0 +1,2 @@
+vmess://ws+tls:fd15c2a7-30a8-0ce3-47fe-5e7d46cf1fab-0@dzyjjuu.r1nhatzh3f.ga:443/?host=dzyjjuu.r1nhatzh3f.ga&path=/alonevws&allowInsecure=true&tlsServerName=dzyjjuu.r1nhatzh3f.ga#VMESS22-2IP
+vmess://ws+tls:20689338-e64b-45f8-bc9b-1683ae059f7a-0@test22.lengbing.repl.co:443/?host=test22.lengbing.repl.co&path=/20689338-e64b-45f8-bc9b-1683ae059f7a-vmess&allowInsecure=true&tlsServerName=test22.lengbing.repl.co#vmess22

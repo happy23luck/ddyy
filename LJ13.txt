@@ -1,0 +1,2 @@
+vmess://ws+tls:7a25b943-1b8f-29a5-b058-fe516583e0c5-0@mmbm.r1nhatzh3f.ga:443/?host=mmbm.r1nhatzh3f.ga&path=/alonevws&allowInsecure=true&tlsServerName=mmbm.r1nhatzh3f.ga#VMESS13-2
+vmess://ws+tls:ec0fdc35-4d9a-4ee7-969a-bc0fefaa9eb2-0@test13.lengbing.repl.co:443/?host=test13.lengbing.repl.co&path=/ec0fdc35-4d9a-4ee7-969a-bc0fefaa9eb2-vmess&allowInsecure=true&tlsServerName=test13.lengbing.repl.co#vmess13

@@ -1,0 +1,2 @@
+vmess://ws+tls:51663cfc-c447-b1ad-b0cd-7d4029b4d2e6-0@eae9vd.r1nhatzh3f.ga:443/?host=eae9vd.r1nhatzh3f.ga&path=/alonevws&allowInsecure=true&tlsServerName=eae9vd.r1nhatzh3f.ga#VMESS5-2IP
+vmess://ws+tls:67124a0c-c75a-4db9-b7f6-6bc5a4577559-0@test05.lengbing.repl.co:443/?host=test05.lengbing.repl.co&path=/67124a0c-c75a-4db9-b7f6-6bc5a4577559-vmess&allowInsecure=true&tlsServerName=test05.lengbing.repl.co#vmess5

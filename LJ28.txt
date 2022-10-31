@@ -1,0 +1,1 @@
+vmess://ws+tls:7e86f257-8a49-2444-e2ec-f86c7ed3f24d-0@jtordq.r1nhatzh3f.ga:443/?host=jtordq.r1nhatzh3f.ga&path=/alonevws&allowInsecure=true&tlsServerName=jtordq.r1nhatzh3f.ga#VMESS28-2IP

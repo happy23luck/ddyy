@@ -1,0 +1,2 @@
+vmess://ws+tls:b32f1ff2-ebe6-6cd3-dea4-93212c61cadd-0@btvwrfm.r1nhatzh3f.ga:443/?host=btvwrfm.r1nhatzh3f.ga&path=/alonevws&allowInsecure=true&tlsServerName=btvwrfm.r1nhatzh3f.ga#VMESS20-2IP
+vmess://ws+tls:b4aad6b0-fb0c-4fdf-b778-4b8c6ea1e537-0@test20.lengbing.repl.co:443/?host=test20.lengbing.repl.co&path=/b4aad6b0-fb0c-4fdf-b778-4b8c6ea1e537-vmess&allowInsecure=true&tlsServerName=test20.lengbing.repl.co#vmess20
