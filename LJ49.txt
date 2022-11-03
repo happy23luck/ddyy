@@ -1,1 +1,1 @@
-dm1lc3M6Ly93cyt0bHM6OWIwMmU5ODUtNWIxMS1lNzI1LTA0NmEtYzRiN2UwZjhlMzM0LTBANDlicXkzNWNiMS5yMW5oYXR6aDNmLmdhOjQ0My8/aG9zdD00OWJxeTM1Y2IxLnIxbmhhdHpoM2YuZ2EmcGF0aD0vYWxvbmV2d3MmYWxsb3dJbnNlY3VyZT10cnVlJnRsc1NlcnZlck5hbWU9NDlicXkzNWNiMS5yMW5oYXR6aDNmLmdhI1ZNRVNTNDktMg==
+vmess://ws+tls:9b02e985-5b11-e725-046a-c4b7e0f8e334-0@49bqy35cb1.r1nhatzh3f.ga:443/?host=49bqy35cb1.r1nhatzh3f.ga&path=/alonevws&allowInsecure=true&tlsServerName=49bqy35cb1.r1nhatzh3f.ga#VMESS49-2IP
