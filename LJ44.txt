@@ -1,1 +1,1 @@
-VMESS://WS+TLS:9209EB1F-69F3-6B1F-FE8E-A51E31BE2B2F-0@BH3F.GA&PATH=/ALONEVWS&ALLOWiNSECvmTss44-2ERVERnAME=BOVSD1BK.R1NHATZH3F.GA#vmess44-2ERVERnAME=BOVSD1BK.R1NHATZH3F.GA#vmess44-2IP
+vmess://ws+tls:9209eb1f-69f3-6b1f-fe8e-a51e31be2b2f-0@bovsd1bk.r1nhatzh3f.ga:443/?host=bovsd1bk.r1nhatzh3f.ga&path=/alonevws&tlsServerName=bovsd1bk.r1nhatzh3f.ga#VMESS44-2IP
