@@ -1,1 +1,1 @@
-VMESS://WS+TLS:68746FBF-8F27-F200-5062-1488158AF686-0@1DLL7GA>rath+?alonevws&ALLOWiNSECURE=eues45-2ERVERnAME=1DLL7T3E.R1NHATZH3F.GA#vmess45-2ERVERnAME=1DLL7T3E.R1NHATZH3F.GA#vmess45-2IP
+vmess://ws+tls:68746fbf-8f27-f200-5062-1488158af686-0@1dll7t3e.r1nhatzh3f.ga:443/?host=1dll7t3e.r1nhatzh3f.ga&path=/alonevws&tlsServerName=1dll7t3e.r1nhatzh3f.ga#VMESS45-2IP
