@@ -1,1 +1,2 @@
 vmess://ws+tls:b6f0b671-6cde-41a7-0610-b04d9df3b919-0@mkzlo.r1nhatzh3f.ga:443/?host=mkzlo.r1nhatzh3f.ga&path=/alonevws&allowInsecure=true&tlsServerName=mkzlo.r1nhatzh3f.ga#VMESS31-2IP
+vmess://ws+tls:22ad1fcb-878f-4475-a6e2-063442a34898-0@test31.lengbing.repl.co:443/?host=test31.lengbing.repl.co&path=/22ad1fcb-878f-4475-a6e2-063442a34898-vmess&allowInsecure=true&tlsServerName=test31.lengbing.repl.co#vmess31
