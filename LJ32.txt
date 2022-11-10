@@ -1,1 +1,2 @@
 vmess://ws+tls:dad3f993-8c21-7167-5200-34e735880184-0@nwyyd.r1nhatzh3f.ga:443/?host=nwyyd.r1nhatzh3f.ga&path=/alonevws&allowInsecure=true&tlsServerName=nwyyd.r1nhatzh3f.ga#VMESS32-2IP
+vmess://ws+tls:dd109e9d-b846-47d0-a224-6ec5d23fed88-0@trod.xwnuzyzsg.repl.co:443/?host=trod.xwnuzyzsg.repl.co&path=/dd109e9d-b846-47d0-a224-6ec5d23fed88-vmess&allowInsecure=true#vmess32
