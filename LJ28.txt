@@ -1,1 +1,2 @@
 vmess://ws+tls:7e86f257-8a49-2444-e2ec-f86c7ed3f24d-0@jtordq.r1nhatzh3f.ga:443/?host=jtordq.r1nhatzh3f.ga&path=/alonevws&allowInsecure=true&tlsServerName=jtordq.r1nhatzh3f.ga#VMESS28-2IP
+vmess://ws+tls:da176e61-2b3e-4a61-9cac-9c21a8ccec27-0@test28.lengbing.repl.co:443/?host=test28.lengbing.repl.co&path=/da176e61-2b3e-4a61-9cac-9c21a8ccec27-vmess&allowInsecure=true&tlsServerName=test28.lengbing.repl.co#vmess28
