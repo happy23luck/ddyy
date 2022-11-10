@@ -1,1 +1,2 @@
 vmess://ws+tls:1a3583e9-1caf-2c9d-b187-244cbf867066-0@ah2cju.r1nhatzh3f.ga:443/?host=ah2cju.r1nhatzh3f.ga&path=/alonevws&allowInsecure=true&tlsServerName=ah2cju.r1nhatzh3f.ga#VMESS40-2IP
+vmess://ws+tls:6c42ce7e-eb37-48a0-bfe3-38e418101667-0@1010.xwnuzyzsg.repl.co:443/?host=1010.xwnuzyzsg.repl.co&path=/6c42ce7e-eb37-48a0-bfe3-38e418101667-vmess&allowInsecure=true#vmess40
